@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crazyone2one)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on software test
+- 🌱 I’m currently learning java
 <!--
 **crazyone2one/crazyone2one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
